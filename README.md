@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shy-programmer
 - 👀 I’m interested in Solving problems through coding
 - 🌱 I was formerly a Python leaner, but I'm currently learning Javascript
+- 🌱 I'm a backend developer, but also going to be improving my frontend as I grow
 - 💞️ I’m looking to collaborate on any project (could be a startup, a community project, learning project et c.) 
 - 📫 You can reach me on twitter (@shy_programmer) or here on github
 
