@@ -1,7 +1,7 @@
 - 👋 Hi, I’m shy programmer
 - 👀 I’m interested in Solving problems through coding
 - 🌱 I'm a backend developer, but also going to be improving my frontend as I grow
-- 🌱 My stacks (Languages, frameworks, and runtime) include HTML, CSS, JS, Nodejs, Expressjs, MongoDB, Mongoose
+- 🌱 My stacks (Languages, frameworks, and runtime) include HTML, CSS, JS, TS, Nodejs, Expressjs, MongoDB, Mongoose
 - 💞️ I’m looking to collaborate on any project (could be a startup, a community project, learning project et c.) 
 - 📫 You can reach me on X/Twitter (@shy_programmer) or here on GitHub
 
