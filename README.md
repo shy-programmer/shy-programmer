@@ -1,11 +1,41 @@
-- 👋 Hi, I’m shy programmer
-- 👀 I’m interested in Solving problems through coding
-- 🌱 I'm a backend developer, but also going to be improving my frontend as I grow
-- 🌱 My stacks (Languages, frameworks, and runtime) include HTML, CSS, JS, TS, Nodejs, Expressjs, MongoDB, Mongoose)
-- 💞️ I’m looking to collaborate on any project (could be a startup, a community project, learning project et c.) 
-- 📫 You can reach me on X/Twitter (@shy_programmer) or here on GitHub
+# Hey, I'm Shy Programmer 👋
 
-<!---
-shy-programmer/shy-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer specializing in the **MERN stack**, with a strong interest in systems building and the interconnection of services. I enjoy thinking about how things fit together — from database design to APIs to the interfaces people actually use.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+`JavaScript` `TypeScript` `HTML` `CSS` `Python`
+
+**Frontend**
+`React` `Vanilla JS`
+
+**Backend**
+`Node.js` `Express` `NestJS` `Django` `FastAPI`
+
+**Databases**
+`MongoDB` `Mongoose` `SQL`
+
+**Other**
+`REST APIs` `WebSockets` `JWT` `Paystack` `Docker (learning)`
+
+---
+
+## 🌱 Currently
+- Leveling up my frontend skills to match my backend experience
+- Exploring system design and service interconnections
+- Open to collaboration — startups, community projects, learning projects, you name it
+
+---
+
+## 💞️ Open to Work
+I'm actively looking for opportunities. If you have something interesting, let's talk.
+
+---
+
+## 📫 Reach me
+- Twitter/X: [@shy_programmer](https://twitter.com/shy_programmer)
+- LinkedIn: [Abdulazeez Arowolo](https://www.linkedin.com/in/abdulazeez-arowolo-lc)
+- Portfolio: [shy-programmer.vercel.app](https://shy-programmer.vercel.app)
